@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_f806b6e5bc9ae482ff8cbd2a71956417f54fb654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_ffea1b8bef3b33433d23821512295f8932c1dcab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_010e99b5886215e89d99ac8ae3f2a18b08c5c795\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1aabe9c9079a8163bd376f278f5c7050ce8ba341">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c9a2e1292010d78278d9e02d62b178a5c800c298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_995e16fd9fcc60b86fdb59b91753aaed01925cc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c0e2509bbc36377d73628dd5ba8df5a528b1f833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c7489156a0990673cb70249791dd2ed0705add33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6b24a8492ffe288953bc1452746060aa5b228d40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_231f1f91bcceb599eb6cdba22733f9c1fa6169ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c9b16e70860d0ad55bab907545a906f95736cdb7">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_23bdefd4febbc1a12a01fdc83187022cf2700326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0b9a2b7d0b3e5bdfe01a60f9b44b4e5ae31bc71c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_332a986fff6b51ca652b88f51ac0240fd2508d12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_f83353387bf75b60d158f33c59bc7caea33aa9ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_b6aab08cfe8e98791ff24821b598c93483bb3595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_b7585ee2f5608e6a8cc03ec758a5cb4c86a25e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_80c6fd60914548ee8d4de6c71a5e79f020275da8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\Android\AndroidStudioProjects\ExemploVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_1efff8ce3df373ee020bfa1c5e9d2a179998ff20\classes.dex" />
+    </item>
+
+</items>
